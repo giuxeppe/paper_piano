@@ -1,0 +1,5 @@
+numpy
+opencv-contrib-python
+numba
+sounddevice
+mediapipe==0.10.21
